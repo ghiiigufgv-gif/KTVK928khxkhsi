@@ -1,6 +1,0 @@
-pyTelegramBotAPI
-google-genai
-python-dotenv
-requests
-gTTS
-edge-tts
