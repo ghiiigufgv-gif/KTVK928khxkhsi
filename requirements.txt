@@ -1,0 +1,7 @@
+python-telegram-bot
+pyTelegramBotAPI
+google-genai
+python-dotenv
+requests
+gTTS
+edge-tts
